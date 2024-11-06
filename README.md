@@ -7,5 +7,3 @@ some description
 
 Watch
 
-## header
-www
